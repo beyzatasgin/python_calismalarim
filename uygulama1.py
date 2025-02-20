@@ -1,0 +1,9 @@
+musteriAdi='Ali'
+musteriSoyadi='Yılmaz'
+musteriAdiSoyadi=musteriAdi+' '+musteriSoyadi
+#musteriCinsiyet='Erkek'
+musteriCinsiyet=True #Erkek
+musteriTC='23284592250'
+musteriDogumYili=1989
+musteriAdresi='İstanbul Kadiköy'
+musteriYasi=2025-musteriDogumYili
